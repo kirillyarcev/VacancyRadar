@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VacancyRadar.Application/VacancyRadar.Application.csproj" />
+    <Project Path="src/VacancyRadar.Bot/VacancyRadar.Bot.csproj" />
+    <Project Path="src/VacancyRadar.Domain/VacancyRadar.Domain.csproj" />
+    <Project Path="src/VacancyRadar.Infrastructure/VacancyRadar.Infrastructure.csproj" />
+    <Project Path="src/VacancyRadar.Worker/VacancyRadar.Worker.csproj" />
+  </Folder>
+</Solution>
